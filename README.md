@@ -43,15 +43,9 @@ Promover **educação digital** sobre **segurança cibernética** de forma acess
 
 ---
 
-## 📷 Captura de Tela
-
-(📸 Adicione aqui uma imagem do site, se desejar.)
-
----
-
 ## 📁 Como visualizar
 
-Você pode abrir o arquivo `index.html` em qualquer navegador ou usar o GitHub Pages para publicar online.
+Você pode abrir o arquivo `index.html` em qualquer navegador.
 
 ---
 
@@ -60,4 +54,5 @@ Você pode abrir o arquivo `index.html` em qualquer navegador ou usar o GitHub P
 Projeto criado para fins **educacionais**. Livre para uso não comercial e acadêmico.
 
 ---
+
 
